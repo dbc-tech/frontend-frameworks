@@ -1,0 +1,36 @@
+{
+  "name": "compare",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8000",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "serve": "serve out -l 3005 -d"
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.5.15",
+    "clsx": "^1.2.1",
+    "next": "12.3.1",
+    "rambda": "^7.3.0",
+    "react": "18.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "18.2.0",
+    "react-query": "^3.39.2",
+    "tailwind-merge": "^1.6.2",
+    "zod": "^3.19.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.0",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "autoprefixer": "^10.4.12",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "postcss": "^8.4.18",
+    "serve": "^14.0.1",
+    "tailwindcss": "^3.1.8",
+    "typescript": "4.8.4"
+  }
+}
