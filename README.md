@@ -11,3 +11,4 @@
 ## Articles
 
 - [The new wave of Javascript web frameworks](https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/)
+- [Jamstack community survey results 2022](https://jamstack.org/survey/2022/)
